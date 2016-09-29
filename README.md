@@ -9,6 +9,12 @@ fps.start();
 
 ```
 
+## Bookmarklet
+
+```js
+javascript:(function(){var script=document.createElement('script');script.onload=function(){var fps=new FPS();fps.start();};script.src='https://rawgit.com/bornbit/fps/master/dist/fps.min.js';document.head.appendChild(script);})()
+```
+
 ## Demo
 - [index.html](http://htmlpreview.github.io/?https://github.com/bornbit/fps/blob/master/demo/index.html)
 
