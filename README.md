@@ -16,7 +16,7 @@ javascript:(function(){var script=document.createElement('script');script.onload
 ```
 
 ## Demo
-- [index.html](http://htmlpreview.github.io/?https://github.com/bornbit/fps/blob/master/demo/index.html)
+- [index.html](https://rawgit.com/bornbit/fps/master/demo/)
 
 ## License
 
